@@ -16,5 +16,8 @@
 
 ## 📁 File:
 `/data/data/com.termux/files/usr/etc/bash.bashrc`
-
+###🔧 Cara install:
+```bash
+git clone https://github.com/alfa516/Bash.bashrc-by-4l_f4.git
+cp Bash.bashrc-by-4l_f4/bash.bashrc /data/data/com.termux/files/usr/etc/
 > Dibuat oleh Alfa516 ❤️
